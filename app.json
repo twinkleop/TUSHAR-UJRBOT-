@@ -28,27 +28,27 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "13791948"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "b4534a8924232e4c6bd171da36251094"
     },
     "STRING_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
-      "value": ""
+      "value": "1AZWarzQBu2t86mO-4xwfIeekDmM0RrN8R-kCqzxowojnrsVJUeSd6qrB15WpJIaZ_8D8rwuiZJbp7ObAPoQ9TYKgVehDdAvodY3LiT95bVV8CCVtvvLFlzwmvrEWROFxg03WYYPK9ANNgwQOYngIPUsZhOC4P1T_osX6m_nAtjH524bnY26Ct7czM6SUGy29jrj8CQFIsFgPtfG3vLgc-pYMXAqF7LI_icgCghqtzohmLkki58ZcRn9OCAjxkYDB600mZet_g_SrTBw6gy8TtXkwacuvHpUbUUVQSn5EvNxWRB1DCLg33pChlAAWNG6ETRsdnqvAOyeDMOD0l5l3cSqEy0cbrng="
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
-      "value": ""
+      "value": "629e0621-6007-4b39-a378-bacf644f5504"
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top. Required for updater to work.",
-      "value": ""
+      "value": "tushar"
     },
     "BOT_TOKEN": {
       "description": "Make a bot from @BotFather and paste the bot token here.",
-      "value": ""
+      "value": "5568808191:AAFb3RvaJIkCw5PgDjH00AhXppsIBvAJANc"
     }
   },
   "addons": [{
